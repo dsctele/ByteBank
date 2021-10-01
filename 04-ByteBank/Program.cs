@@ -6,7 +6,14 @@ namespace _04_ByteBank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ContaCorrente contaDoBruno = new ContaCorrente();
+
+            contaDoBruno.titular = "Bruno";
+
+            Console.WriteLine(contaDoBruno.saldo);
+            bool resultadodoSaque = contaDoBruno.Sacar(500);
+            Console.WriteLine(contaDoBruno.saldo);
+            Console.WriteLine(resultadodoSaque);
         }
     }
 }

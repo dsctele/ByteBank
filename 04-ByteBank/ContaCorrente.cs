@@ -5,5 +5,16 @@
     public int numero;
     public double saldo = 100;
 
-    Sacar(double valor)
+    public bool Sacar(double valor)
+    {
+        if (this.saldo < valor)
+        {
+            return false;
+        }
+        else
+        {
+            this.saldo -= valor;
+            return true;
+        }
+    }
 }
