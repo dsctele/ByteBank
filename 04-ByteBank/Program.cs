@@ -14,6 +14,13 @@ namespace _04_ByteBank
             bool resultadodoSaque = contaDoBruno.Sacar(500);
             Console.WriteLine(contaDoBruno.saldo);
             Console.WriteLine(resultadodoSaque);
+            Console.WriteLine(contaDoBruno.saldo);
+
+            contaDoBruno.Depositar(500);
+            Console.WriteLine(contaDoBruno.saldo);
+
+
+
         }
     }
 }
