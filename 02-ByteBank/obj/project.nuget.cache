@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0X/SWYYDLbXFmjOHr3HWq0+mqzv2vUD2c9MqxqGAw4IYo7r1FTk4rEx2EyJdGCFOdOIm42NQ3uuz8Kzju8DxA==",
+  "dgSpecHash": "3XZo8ZGtIkk2mtzS102HVxlLNwYYw2lFLeAmeQD/0gos/Y1jivAU2oCV6K1XpCZS58vJjUKVarhw33dO09FP1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dschernoski\\source\\repos\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
+  "projectFilePath": "C:\\CursoCSharpAlura\\ByteBank\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

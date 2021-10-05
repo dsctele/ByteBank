@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dschernoski\\source\\repos\\ByteBank\\02-ByteBank\\02-ByteBank.csproj": {}
+    "C:\\CursoCSharpAlura\\ByteBank\\ByteBank\\02-ByteBank\\02-ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dschernoski\\source\\repos\\ByteBank\\02-ByteBank\\02-ByteBank.csproj": {
+    "C:\\CursoCSharpAlura\\ByteBank\\ByteBank\\02-ByteBank\\02-ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dschernoski\\source\\repos\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
+        "projectUniqueName": "C:\\CursoCSharpAlura\\ByteBank\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
         "projectName": "02-ByteBank",
-        "projectPath": "C:\\Users\\dschernoski\\source\\repos\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
-        "packagesPath": "C:\\Users\\dschernoski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dschernoski\\source\\repos\\ByteBank\\02-ByteBank\\obj\\",
+        "projectPath": "C:\\CursoCSharpAlura\\ByteBank\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\CursoCSharpAlura\\ByteBank\\ByteBank\\02-ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dschernoski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
